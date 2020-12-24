@@ -1,6 +1,6 @@
 #' ---
 #' title: 'Task 04: Working toward a Prediction Model'
-#' author: "Mark Blackmore"
+#' author: "Mohamed"
 #' date: "`r format(Sys.Date())`"
 #' output: 
 #'   github_document:
